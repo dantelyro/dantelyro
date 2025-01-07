@@ -1,9 +1,13 @@
 # 👨‍💻 Gabriel (Dante) Lyro
 
 - 🚀 **Passionate Full Stack Developer** | SQL | Frontend | Backend | DevOps | Architecture | Automation  
+
 - 💡 I’m deeply passionate about software development and thrive on being involved in every part of the development lifecycle. i'm Always seeking improvement and eager to try new technologies and challenges.
+
 - ❤️ While I enjoy working across the stack, I have a particular soft spot for **backend development**. But if I were to choose my favorite project I would always say the next one.
+
 - 💬 Early in my career, a senior developer helped me out of goodwill. Inspired by that, I’m always happy to chat about programming — feel free to reach out on ***LinkedIn.***
+
 
 ---
 
