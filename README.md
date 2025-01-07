@@ -3,7 +3,6 @@
 - 🚀 **Passionate Full Stack Developer** | SQL | Frontend | Backend | DevOps | Architecture | Automation  
 - 💡 I’m deeply passionate about software development and thrive on being involved in every part of the development lifecycle. With strong abilities in **SQL**, **frontend**, **backend**, **DevOps**, **architecture**, and **automation**, I love building robust and scalable solutions.  
 - ❤️ While I enjoy working across the stack, I have a particular soft spot for **backend development**, where I can design clean, efficient, and maintainable systems.  
-- 🌍 Open to collaboration and excited to contribute to impactful projects.
 
 ---
 
