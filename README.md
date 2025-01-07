@@ -2,7 +2,7 @@
 
 🚀 **Passionate Full Stack Developer** | SQL | Frontend | Backend | DevOps | Architecture | Automation  
 
-💡 I’m deeply passionate about software development and thrive on being involved in every part of the development lifecycle. i'm Always seeking improvement and eager to try new technologies and challenges.
+💡 I’m deeply passionate about software development and thrive on being involved in every part of the development lifecycle. I'm Always seeking improvement and eager to try new technologies and challenges.
 
 ❤️ While I enjoy working across the stack, I have a particular soft spot for **backend development**. But if I were to choose my favorite project I would always say the next one.
 
@@ -11,7 +11,8 @@
 
 ---
 
-<div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dantelyro&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantelyro&layout=compact&theme=dracula" />
 </div>
 
