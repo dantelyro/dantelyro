@@ -31,6 +31,7 @@
   <img align="center" alt="docker" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="NestJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Quasar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-original.svg">
+  <img align="center" alt="Quasar" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ---
