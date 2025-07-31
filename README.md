@@ -6,9 +6,6 @@
 
 ❤️ While I enjoy working across the stack, I have a particular soft spot for **backend development**. But if I were to choose my favorite project I would always say the next one.
 
-💬 Early in my career, a senior developer helped me out of goodwill. Inspired by that, I’m always happy to chat about programming — feel free to reach out on ***LinkedIn.***
-
-
 ---
 
 <div align="center">
