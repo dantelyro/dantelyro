@@ -14,7 +14,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=BD93F9&center=true&vCenter=true&width=950&lines=I+love+shipping+systems+end-to-end.;My+favorite+project+is+always+the+next+one.;NestJS+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL+%7C+Docker;Fun+fact%3A+I%27d+rather+debug+a+gnarly+prod+issue+than+write+another+form;Deep-diving+into+container+orchestration%2C+clean+architecture%2C+and+AWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=BD93F9&center=true&vCenter=true&width=950&lines=I+love+shipping+systems+end-to-end.;My+favorite+project+is+always+the+next+one.;NestJS+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL+%7C+Docker;Deep-diving+into+container+orchestration%2C+clean+architecture%2C+and+AWS" />
 </p>
 
 ---
