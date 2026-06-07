@@ -56,8 +56,8 @@ const gabriel = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-stats-pi.vercel.app/api?username=dantelyro&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-stats-pi.vercel.app/api/top-langs/?username=dantelyro&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-stats-readme.vercel.app/api?username=dantelyro&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-stats-readme.vercel.app/api/top-langs/?username=dantelyro&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
 </p>
 
 <!-- <p align="center">
