@@ -14,7 +14,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=BD93F9&center=true&vCenter=true&width=950&lines=I+love+shipping+systems+end-to-end.;My+favorite+project+is+always+the+next+one.;NestJS+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL+%7C+Docker;Deep-diving+into+container+orchestration%2C+clean+architecture%2C+and+AWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=BD93F9&center=true&vCenter=true&width=950&lines=I+love+shipping+systems+end-to-end.;My+favorite+project+is+always+the+next+one.;Backend-first+Full+Stack+Engineer" />
 </p>
 
 ---
@@ -56,8 +56,8 @@ const gabriel = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dantelyro&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantelyro&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-stats-pi.vercel.app/api?username=dantelyro&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-stats-pi.vercel.app/api/top-langs/?username=dantelyro&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
 </p>
 
 <!-- <p align="center">
