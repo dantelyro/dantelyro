@@ -27,7 +27,7 @@ const gabriel = {
   backend:  ["NestJS", "Node.js", "TypeScript", "PostgreSQL"],
   frontend: ["Vue", "Quasar", "React"],
   infra:    ["Docker", "GitLab CI/CD", "Dokku", "Linux"],
-  currently: "Automating deploys via GitLab ChatOps",
+  currently: "Putting all my efforts into learning germam",
   favoriteProject: "always the next one",
 };
 ````
@@ -81,15 +81,6 @@ const gabriel = {
 - **DevOps & Automation** — Docker, CI/CD pipelines, scripts, developer experience
 - **Frontend when needed** — Vue/Quasar/React to deliver complete products
 - **Anything New** — A challenge, something new to me that pushes me to acquire new knowledge
-
----
-
-### 🎯 Currently
-
-- 🔭 Building CI/CD tooling and a Centralized payment API with Stripe
-- 🌱 Deep-diving into container orchestration, clean architecture, and AWS
-- 💬 Ask me about **GitLab pipelines**, **NestJS**, **Dokku deployments** or SOLID
-- ⚡ I am actively studying German
 
 ---
 
