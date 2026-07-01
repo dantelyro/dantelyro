@@ -89,7 +89,7 @@ const gabriel = {
 - 🔭 Building CI/CD tooling and a Centralized payment API with Stripe
 - 🌱 Deep-diving into container orchestration, clean architecture, and AWS
 - 💬 Ask me about **GitLab pipelines**, **NestJS**, **Dokku deployments** or SOLID
-- ⚡ Fun fact: I'd rather debug a gnarly prod issue than write another form
+- ⚡ I am actively studying German
 
 ---
 
