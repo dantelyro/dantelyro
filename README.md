@@ -14,7 +14,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=BD93F9&center=true&vCenter=true&width=950&lines=I+love+shipping+systems+end-to-end.;My+favorite+project+is+always+the+next+one.;Backend-first+Full+Stack+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=BD93F9&center=true&vCenter=true&width=950&lines=I+love+shipping+systems+end-to-end;My+favorite+project+is+always+the+next+one;I+can+speak+portuguese,+english+and+I'm+also+studying+german;SOLID,+Repository+Pattern+and+Layered+Architecture" />
 </p>
 
 ---
