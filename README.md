@@ -76,11 +76,11 @@ const gabriel = {
 
 ### 🧭 What I like working on
 
-- **Backend & APIs** — designing services, clean architecture, integrations, performance
+- **Backend & APIs** — designing services, SOLID, integrations, performance
 - **Data** — SQL modeling, migrations, query optimization, reliability, ETL
 - **DevOps & Automation** — Docker, CI/CD pipelines, scripts, developer experience
 - **Frontend when needed** — Vue/Quasar/React to deliver complete products
-- **Anything New** — A challenge, something new to me that pushes me to a new knowledge
+- **Anything New** — A challenge, something new to me that pushes me to acquire new knowledge
 
 ---
 
