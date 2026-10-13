@@ -38,7 +38,7 @@ const gabriel = {
 
 <p align="center">
   <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=nest,nodejs,ts,js,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nest,nodejs,ts,js,python,postgres&theme=dark" />
 </p>
 
 <p align="center">
