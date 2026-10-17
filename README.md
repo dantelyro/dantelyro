@@ -39,12 +39,15 @@ applications, AI integrations, and reliable engineering workflows.
 
 ## Impact
 
+- Founding engineer with startup experience, taking products from early-stage ideas to reliable production systems
+- Owned technical decisions across coding standards, best practices, architecture, system design, technical planning, and deployment
+- Defined engineering workflows that improved code quality, maintainability, delivery speed, and team alignment
 - Redesigned a critical integration API, improving performance by **50%+**
 - Reduced production bugs by **80%**
 - Helped grow the client base from **112 to 300+ municipalities**
 - Delivered a centralized payment API used as the payment layer across company services
 - Built MCP servers connecting LLMs to government data
-- Lead code reviews and mentor engineers through SOLID principles and practical design
+- Led code reviews and mentored engineers through SOLID principles and practical design
 
 ---
 
