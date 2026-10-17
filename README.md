@@ -70,8 +70,11 @@ applications, AI integrations, and reliable engineering workflows.
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle_CRM-0F172A?style=for-the-badge&logo=drizzle&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logoColor=white" />
 </p>
 
@@ -87,6 +90,8 @@ applications, AI integrations, and reliable engineering workflows.
 ### Infrastructure & Engineering
 
 <p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VPS-7F00FF?style=for-the-badge&logo=serverfault&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Dokku-000000?style=for-the-badge&logo=dokku&logoColor=white" />
