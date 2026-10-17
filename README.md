@@ -40,7 +40,7 @@ applications, AI integrations, and reliable engineering workflows.
 ## Impact
 
 - Founding engineer with startup experience, taking products from early-stage ideas to reliable production systems
-- Owned technical decisions across coding standards, best practices, architecture, system design, technical planning, and deployment
+- Owned technical decisions across coding standards, engineering best practices, architecture, system design, technical planning, and deployment
 - Defined engineering workflows that improved code quality, maintainability, delivery speed, and team alignment
 - Redesigned a critical integration API, improving performance by **50%+**
 - Reduced production bugs by **80%**
@@ -99,7 +99,7 @@ applications, AI integrations, and reliable engineering workflows.
 
 <p>
   <img src="https://img.shields.io/badge/MCP_Servers-7F00FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool_Calling-E100FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Integrations-E100FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Structured_Outputs-5B21B6?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logoColor=white" />
