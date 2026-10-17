@@ -108,18 +108,6 @@ applications, AI integrations, and reliable engineering workflows.
 
 ---
 
-## What I enjoy working on
-
-- Full-stack product development and technical ownership
-- Distributed REST APIs and service integrations
-- ETL pipelines and data-heavy systems
-- PostgreSQL performance optimization
-- AI-powered applications and MCP integrations
-- CI/CD automation and container-based deployments
-- Code quality, mentoring, and engineering practices that help teams grow
-
----
-
 ## Currently learning
 
 German, advanced system design, and new ways to improve software development
