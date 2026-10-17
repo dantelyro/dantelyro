@@ -3,98 +3,119 @@
 </p>
 
 <p align="center">
-  <b>Backend-first Full Stack Software Engineer</b>
+  <b>Senior Software Engineer · Full Stack · TypeScript · AI Integrations</b>
   <br/>
-  SQL • Frontend • Backend • DevOps • Architecture • Automation
-</p>
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dantelyro&label=Profile%20views&color=bd93f9&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/dantelyro?label=Followers&style=flat-square&color=ff79c6" />
-</p> -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=BD93F9&center=true&vCenter=true&width=950&lines=I+love+shipping+systems+end-to-end;My+favorite+project+is+always+the+next+one;I+can+speak+portuguese,+english+and+I'm+also+studying+german;SOLID,+Repository+Pattern+and+Layered+Architecture" />
-</p>
-
----
-
-### 🧠 About me
-
-````typescript
-const gabriel = {
-  role: "Senior Full-Stack Developer",
-  backend:  ["NestJS", "Node.js", "TypeScript", "PostgreSQL"],
-  frontend: ["Vue", "Quasar", "React"],
-  infra:    ["Docker", "GitLab CI/CD", "Dokku", "Linux"],
-  currently: "Putting all my efforts into learning germam",
-  favoriteProject: "always the next one",
-};
-````
-
----
-
-### 🔧 Tech Stack
-
-<p align="center">
-  <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=nest,nodejs,ts,js,python,postgres&theme=dark" />
+  Building reliable systems, developer tools, and products end-to-end.
 </p>
 
 <p align="center">
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=vue,react,html,css,tailwind&theme=dark" />
-</p>
-
-<p align="center">
-  <b>DevOps & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,gitlab,linux,bash,nginx,git&theme=dark" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-stats-readme.vercel.app/api?username=dantelyro&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-stats-readme.vercel.app/api/top-langs/?username=dantelyro&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dantelyro&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dantelyro&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dantelyro&theme=dracula&hide_border=true&area=true" />
-</p> -->
-
----
-
-### 🧭 What I like working on
-
-- **Backend & APIs** — designing services, SOLID, integrations, performance
-- **Data** — SQL modeling, migrations, query optimization, reliability, ETL
-- **DevOps & Automation** — Docker, CI/CD pipelines, scripts, developer experience
-- **Frontend when needed** — Vue/Quasar/React to deliver complete products
-- **Anything New** — A challenge, something new to me that pushes me to acquire new knowledge
-
----
-
-### 📫 Get in Touch
-
-<p align="center">
+  <a href="https://portfolio.gabriellyro.dev.br/">
+    <img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-lyro-5a172a166/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:angelogabryel85@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-lyro-5a172a166/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=80&section=footer" />
+---
+
+## About me
+
+Senior Full Stack Engineer with 5+ years of experience delivering production
+TypeScript and Node.js systems across government-grade and private-sector
+environments.
+
+I work across the full product lifecycle—from architecture, APIs, databases,
+and integrations to frontend delivery, deployment automation, and developer
+experience.
+
+I enjoy solving complex problems involving distributed systems, data-heavy
+applications, AI integrations, and reliable engineering workflows.
+
+---
+
+## Impact
+
+- Redesigned a critical integration API, improving performance by **50%+**
+- Reduced production bugs by **80%**
+- Helped grow the client base from **112 to 300+ municipalities**
+- Delivered a centralized payment API used as the payment layer across company services
+- Built MCP servers connecting LLMs to government data
+- Lead code reviews and mentor engineers through SOLID principles and practical design
+
+---
+
+## Technology
+
+### Languages & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-7F00FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logoColor=white" />
 </p>
+
+### Databases & Data
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logoColor=white" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
+</p>
+
+### Infrastructure & Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dokku-000000?style=for-the-badge&logo=dokku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+</p>
+
+### AI & Developer Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MCP_Servers-7F00FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool_Calling-E100FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Structured_Outputs-5B21B6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+## What I enjoy working on
+
+- Full-stack product development and technical ownership
+- Distributed REST APIs and service integrations
+- ETL pipelines and data-heavy systems
+- PostgreSQL performance optimization
+- AI-powered applications and MCP integrations
+- CI/CD automation and container-based deployments
+- Code quality, mentoring, and engineering practices that help teams grow
+
+---
+
+## Currently learning
+
+German, advanced system design, and new ways to improve software development
+through AI-assisted engineering workflows.
